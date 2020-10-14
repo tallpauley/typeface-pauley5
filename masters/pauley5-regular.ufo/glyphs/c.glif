@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="c" format="2">
-	<advance width="510"/>
+	<advance width="520"/>
 	<unicode hex="0063"/>
 	<outline>
 		<contour>
@@ -21,7 +21,7 @@
 			<point x="383" y="481"/>
 			<point x="434" y="499" type="curve"/>
 			<point x="432" y="504" type="line"/>
-			<point x="251" y="525"/>
+			<point x="263" y="504"/>
 			<point x="181" y="295"/>
 			<point x="181" y="180" type="curve"/>
 			<point x="181" y="118"/>
@@ -41,7 +41,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2020-10-13 22:10:53 +0000</string>
+			<string>2020-10-14 03:41:55 +0000</string>
 		</dict>
 	</lib>
 </glyph>
