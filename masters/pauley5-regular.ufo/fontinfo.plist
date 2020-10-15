@@ -14,12 +14,20 @@
 	<real>-10.0</real>
 	<key>openTypeHeadCreated</key>
 	<string>2020/10/13 13:54:11</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array/>
 	<key>postscriptFontName</key>
-	<string>New Font-Regular</string>
+	<string>NewFont-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array/>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>

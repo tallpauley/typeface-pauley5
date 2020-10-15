@@ -5,8 +5,8 @@
 	<outline>
 		<contour>
 			<point x="53" y="489" type="line"/>
-			<point x="53" y="496" type="line"/>
-			<point x="316" y="496"/>
+			<point x="53" y="500" type="line"/>
+			<point x="316" y="500"/>
 			<point x="381" y="592"/>
 			<point x="465" y="783" type="curve"/>
 			<point x="473" y="782" type="line"/>
@@ -38,7 +38,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2020-10-14 03:42:51 +0000</string>
+			<string>2020-10-15 01:33:20 +0000</string>
 		</dict>
 	</lib>
 </glyph>

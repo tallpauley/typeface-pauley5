@@ -7,12 +7,12 @@
 			<point x="348" y="312" type="line"/>
 			<point x="308" y="197" type="line" smooth="yes"/>
 			<point x="264" y="72"/>
-			<point x="259" y="22"/>
-			<point x="420" y="22" type="curve"/>
-			<point x="420" y="10" type="line"/>
-			<point x="29" y="10" type="line"/>
-			<point x="30" y="21" type="line"/>
-			<point x="89" y="21"/>
+			<point x="259" y="12"/>
+			<point x="420" y="12" type="curve"/>
+			<point x="420" y="0" type="line"/>
+			<point x="29" y="0" type="line"/>
+			<point x="30" y="11" type="line"/>
+			<point x="89" y="11"/>
 			<point x="126" y="54"/>
 			<point x="145" y="108" type="curve" smooth="yes"/>
 			<point x="347" y="675" type="line" smooth="yes"/>
@@ -23,10 +23,10 @@
 			<point x="255" y="822" type="line"/>
 			<point x="341" y="822" type="line" smooth="yes"/>
 			<point x="436" y="822"/>
-			<point x="479" y="790"/>
-			<point x="477" y="720" type="curve"/>
-			<point x="482" y="719" type="line"/>
-			<point x="513" y="773"/>
+			<point x="479" y="777"/>
+			<point x="477" y="707" type="curve"/>
+			<point x="482" y="706" type="line"/>
+			<point x="515" y="769"/>
 			<point x="586" y="818"/>
 			<point x="662" y="818" type="curve"/>
 			<point x="782" y="818"/>
@@ -47,7 +47,7 @@
 			<point x="716" y="631"/>
 			<point x="744" y="793"/>
 			<point x="612" y="793" type="curve" smooth="yes"/>
-			<point x="461" y="793"/>
+			<point x="471" y="793"/>
 			<point x="357" y="377"/>
 			<point x="357" y="339" type="curve" smooth="yes"/>
 			<point x="357" y="322"/>
@@ -57,7 +57,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2020-10-14 04:32:01 +0000</string>
+			<string>2020-10-15 01:10:30 +0000</string>
 		</dict>
 	</lib>
 </glyph>
