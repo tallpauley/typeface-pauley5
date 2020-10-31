@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="2">
-	<advance width="611"/>
+	<advance width="592"/>
 	<unicode hex="0071"/>
 	<outline>
 		<contour>
-			<point x="174" y="-284" type="line"/>
-			<point x="242" y="-149"/>
-			<point x="393" y="-138"/>
-			<point x="644" y="-138" type="curve"/>
-			<point x="644" y="-130" type="line"/>
-			<point x="364" y="-133" type="line"/>
+			<point x="145" y="-346" type="line"/>
+			<point x="219" y="-187"/>
+			<point x="302" y="-175"/>
+			<point x="506" y="-175" type="curve"/>
+			<point x="625" y="-175" type="line"/>
+			<point x="625" y="-167" type="line"/>
+			<point x="345" y="-167" type="line"/>
 			<point x="562" y="396" type="line"/>
 			<point x="594" y="463"/>
-			<point x="601" y="490"/>
+			<point x="598" y="490"/>
 			<point x="682" y="490" type="curve"/>
 			<point x="673" y="500" type="line"/>
 			<point x="648" y="500"/>
-			<point x="621" y="502"/>
-			<point x="468" y="502" type="curve"/>
-			<point x="429" y="423" type="line"/>
-			<point x="426" y="423" type="line"/>
+			<point x="621" y="500"/>
+			<point x="468" y="500" type="curve"/>
+			<point x="434" y="419" type="line"/>
+			<point x="428" y="419" type="line"/>
 			<point x="413" y="469"/>
 			<point x="377" y="504"/>
 			<point x="296" y="504" type="curve" smooth="yes"/>
@@ -33,7 +34,7 @@
 			<point x="250" y="-7"/>
 			<point x="284" y="24" type="curve"/>
 			<point x="290" y="19" type="line"/>
-			<point x="171" y="-284" type="line"/>
+			<point x="138" y="-346" type="line"/>
 		</contour>
 		<contour>
 			<point x="152" y="140" type="curve" smooth="yes"/>
@@ -53,7 +54,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2020-10-14 04:03:40 +0000</string>
+			<string>2020-10-31 23:49:11 +0000</string>
 		</dict>
 	</lib>
 </glyph>
